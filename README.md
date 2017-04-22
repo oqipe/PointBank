@@ -1,6 +1,50 @@
 # PointBank
 New system,  substitute of Capitalism.
 
+# Translate with Google Translate:
+
+This system aims to create a method that replaces the current system.
+The biggest problem of the current system, capitalism, is when one economy wants to be bigger than the other.
+Briefly, for one to have money the other has to give money. And that's where the problem occurs. When one does not want to distribute the money and save a lot.
+
+Assume two countries A and B.
+Assume a world GDP of $ 100.
+Suppose A has $ 50 and B $ 50 ...
+As an example, A sells for B $ 40.
+Now B has $ 10.
+
+How will B get more $ if A will not allow it?
+
+B will always live in poverty, even though it is the most intelligent country. B can also revolt and attack the A.
+
+The idea of ​​the system is to create a point system.
+
+Simple:
+
+For raw material the current system can serve as a basis. But converted into points.
+Using the example: World GDP $ 100 -> converts to quantity of raw material that exists in the world or point by raw material. 100 points.
+
+For services comes insight, the great idea that will eradicate poverty and joblessness in the world.
+Just want and do.
+
+Suppose a professional knows how to program.
+He does not need raw materials to program, it's internal to him, he's an intellect.
+So just ask someone and he or she if you want to.
+
+Instead of paying with $ money, capitalism, he will be paid with points, which he can exchange for raw material, which will also be stored in his account, so that in the future, if he wants to exchange for another raw material he switches.
+
+Two modules will exist.
+The payment system by intellect. Engineer, electrical, mechanic, teacher, teacher, ...
+Paid with points. Example: Computer engineer is an intellect and in Brazil by law you have to earn close to $ 5,000.00 per month. Converts to point: 5000 Pts. No one needs to give money to his or her intellect just want to work and he or she will earn points.
+
+And exchange system for raw material. House, car, computer, terrain, ...
+In the example the Engineer or Engineer won 5000 pts. All he needs is change for something he wants.
+A car that costs 2000 pts. Changed and now it's 3000 pts. And 2000 pts associated with the car.
+If he takes good care of the car he will not lose the sts associated with the car, in the case 2000 pts.
+This also encourages caring for the planet.
+
+# Portuguese BRA
+
 This system tem como meta criar um método que substitua o sistema atual.
 O maior problema do sistema atual, o capitalismo, é quando uma economia quer ser maior que a outra.
 Resumidamente, para que um tenha dinheiro o outro tem que dar dinheiro. E é ai que o problema ocorre. Quando um não quer distribuir o dinheiro e economizar muito.
